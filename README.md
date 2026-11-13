@@ -20,3 +20,4 @@ Oregon State University AI 539 期末課堂競賽。輸入一張葉片照片，�
 
 - [訓練 notebook](notebooks/botanist_training.ipynb) 包含影像前處理、CNN 架構及全量重訓程式。執行需要課程提供的影像和標籤 CSV。
 - [模型開發紀錄](docs/model-development.md) 包含模型迭代、架構、訓練設定及評估限制。
+- [Team 5 期末報告｜Botanist 章節](docs/botanist-report-excerpt.pdf) 摘自原報告 §2（第 6–10 頁），含當時的模型迭代與訓練曲線。報告由 Chun-Kai Yao、Pin-Cheng Wu 與 Te-Hong Hou 共同撰寫。Botanist 子專案由 Te-Hong Hou 負責。
